@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Todoey
-//
-//  Created by Tasnim Haider Chaudhury on 9/7/18.
-//  Copyright © 2018 Bita Consultancy Services. All rights reserved.
-//
-
 import UIKit
 
 class TodoListViewController: UITableViewController {
